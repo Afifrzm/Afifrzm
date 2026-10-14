@@ -10,7 +10,7 @@ I'm a cybersecurity-focused developer, interested in understanding how systems b
 
 My interests sit somewhere between **defensive security and software engineering**. I enjoy analyzing security problems, working with systems and APIs, and building tools that automate repetitive security work.
 
-A lot of what I work on is either experimental, university-related, or still private — so this profile is a place where I can share what I'm learning, what I'm building, and the things that genuinely interest me.
+A lot of what I work on is either experimental, university-related, or still private. So this profile is a place where I can share what I'm learning, what I'm building, and the things that genuinely interest me.
 
 ## 🛠️ What I'm Working On
 
@@ -39,16 +39,13 @@ Security is my main focus, but I also enjoy building software.
 Most of my current work involves some combination of:
 
 - **Python**
-- **FastAPI**
-- **REST APIs**
+- **FastAPI/REST APIs**
 - **SQL**
-- **Linux**
 - **Git**
 - **C / C++**
 - **Web technologies**
-- **Automation**
 
-One thing I particularly enjoy is working with APIs and backend systems — taking multiple sources of information, processing them, and turning them into something useful.
+One thing I particularly enjoy is working with APIs and backend systems, taking multiple sources of information, processing them, and turning them into something useful.
 
 ## 🚀 SoftApproval
 
@@ -91,7 +88,7 @@ I have close to **two years of professional experience in the cybersecurity indu
 
 I'm currently working in an **MSSP environment**, where I continue to build practical experience around security operations, monitoring, incident handling, and working with security tooling in real-world environments.
 
-Before that, I gained experience in other cybersecurity-focused roles that gave me exposure to different sides of the industry — from technical operations and security analysis to automation and engineering-oriented work.
+Before that, I gained experience in other cybersecurity-focused roles that gave me exposure to different sides of the industry: from technical operations and security analysis to automation and engineering-oriented work.
 
 What I value most from that experience is seeing how security actually works outside of labs: real users, real systems, real constraints, and the need to balance security with usability and business requirements.
 
