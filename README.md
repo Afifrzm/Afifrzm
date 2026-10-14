@@ -110,7 +110,7 @@ Those experiences have pushed me toward the areas I enjoy most today:
 I'm always happy to talk about cybersecurity, security engineering, interesting projects, or technology in general.
 
 - **GitHub:** [@Afifrzm](https://github.com/Afifrzm)
-- **LinkedIn:** [Add your LinkedIn here](https://www.linkedin.com/in/afif-razam-soc/)
+- **LinkedIn:**(https://www.linkedin.com/in/afif-razam-soc/)
 
 ---
 
